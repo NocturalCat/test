@@ -23,7 +23,7 @@ Poem.prototype = {
         line3.anchor.set(0.5);
         line4= game.add.text((game.width/2), (game.height/2)+10, 'An echoing voice, lost in the glooming dusk"', {font: 'Helvetica', fontSize: '15px', fill: '#fff' });
         line4.anchor.set(0.5);
-        herName= game.add.text((game.width/2), (game.height/2)+55, '~ Isabelle Rose ~', {font: 'Helvetica', fontSize: '15px', fill: '#fff' });
+        herName= game.add.text((game.width/2), (game.height/2)+55, '~ Isabelle Clover ~', {font: 'Helvetica', fontSize: '15px', fill: '#fff' });
         herName.anchor.set(0.5);
         instr= game.add.text((game.width/2), (game.height/2)+97, 'Press SPACE to Continue', {font: 'Helvetica', fontSize: '15px', fill: '#fff' });
         instr.anchor.set(0.5);
